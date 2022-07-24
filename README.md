@@ -1,2 +1,2 @@
-# algo-trading
-A collection of my algo trading projects
+# Cryprocurrency and Algorithmic Trading with Python and Binance
+
