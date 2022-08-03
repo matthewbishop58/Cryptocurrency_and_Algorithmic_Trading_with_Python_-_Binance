@@ -1,6 +1,6 @@
 # Cryprocurrency and Algorithmic Trading with Python and Binance
 
-!(https://public.bnbstatic.com/image/cms/blog/20220215/76c148c3-c3d8-4123-82b1-bee748c38869.png)
+![Binance](https://public.bnbstatic.com/image/cms/blog/20220215/76c148c3-c3d8-4123-82b1-bee748c38869.png)
 
 I completed the Udemy course Cryptocurrency and Algorithmic Trading with Python and Binance
 
